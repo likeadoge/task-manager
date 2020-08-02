@@ -1,6 +1,7 @@
 HELP.md
-target/
+# target/
 !.mvn/wrapper/maven-wrapper.jar
+# !target/task-manager-0.0.1-SNAPSHOT.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
 
@@ -14,7 +15,7 @@ target/
 .sts4-cache
 
 ### IntelliJ IDEA ###
-.idea
+.idea/
 *.iws
 *.iml
 *.ipr
